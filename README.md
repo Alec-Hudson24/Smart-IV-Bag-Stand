@@ -11,7 +11,7 @@
 - **Outcome**: Fully functional prototype with joystick/rotary dial controls, LED feedback (green/yellow/red for full → low), calibration button, and hinged access panel for electronics.
 
  
-  ## Programs and skills required
+## Programs and skills required
 - **3D Modeling & Design**: SolidWorks (parametric modeling, assemblies, STEP export for prototyping/fabrication)
 - **Electronics**: Soldering, PCB connections, integration of load cell, motors, joystick, rotary encoder, LEDs, buzzer
 - **Programming**: Arduino IDE (sensor reading, motor control, state machine for modes/alerts, calibration logic)
