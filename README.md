@@ -10,7 +10,7 @@
       -  Coding (Arduino IDE)
 
  # Project Links  
--Link to Machine explanation and test: [IV Bag Stand](https://www.youtube.com/watch?v=gjZ4MjLh-VY)  
+-Video explanation and test: [IV Bag Stand](https://www.youtube.com/watch?v=gjZ4MjLh-VY)  
 -Step File to Prototype: [Solidworks prototype](IV%20Project.STEP)  
 
 # Model Photo
