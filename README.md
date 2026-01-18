@@ -33,6 +33,6 @@
 - Refine mechanical stability for taller extensions
 
 # Model Photo
-![Finished IV Holder Assembly](https://github.com/Alec-Hudson24/Alec-Hudson24/raw/main/Assembly_Finished.png)
+![Finished IV Holder Assembly](https://github.com/Alec-Hudson24/Smart-IV-Bag-Stand/blob/main/Assembly_Finished.png)
 
 
