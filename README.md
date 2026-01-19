@@ -32,6 +32,7 @@
 - Add wireless alerts (e.g., Bluetooth to nurse station app)
 - Integrate battery monitoring
 - Refine mechanical stability for taller extensions
+- Design custom PCB to simplify the wiring
 
 # Model Photo
 ![Finished IV Holder Assembly](https://github.com/Alec-Hudson24/Smart-IV-Bag-Stand/blob/main/Assembly_Finished.png)
